@@ -1,6 +1,3 @@
-Drop TABLE pokemon;
-DROP Table Treinadores
-
 CREATE TABLE Treinadores(
   codigo SERIAL PRIMARY KEY,
   nome VARCHAR(15),
